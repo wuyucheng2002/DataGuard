@@ -42,3 +42,6 @@ python main.py --upload='tabel1/' --download='tabel2/' --file1='医保_个人基
 - anonymized_5_0_0.0.xlsx：设置k=5运用K-匿名性算法后的文件
 - anonymized_6_0_0.0.xlsx：设置k=6运用K-匿名性算法后的文件
 - anonymized_7_0_0.0.xlsx：设置k=7运用K-匿名性算法后的文件
+
+## 参考代码
+- https://github.com/glassonion1/anonypy
